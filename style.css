@@ -1,0 +1,48 @@
+/*Colors and Fonts*/
+
+
+body {
+	background-color: #EEEEEE;
+	color: #373F51;
+	font-family: 'Josefin Slab', serif;
+	letter-spacing: 1px;
+	font-size: 17px;
+	font-weight: lighter;
+}
+h2,h3 {
+	font-family: 'Josefin Slab', serif;
+}
+h1 {
+	font-family: 'Marcellus SC', serif;
+	color: #304D6D;
+	font-weight: 400px;
+	letter-spacing: 1px;
+	font-size: 38px;
+}
+h2 {
+	color: #566246;
+	font-weight: 700;
+	letter-spacing: 1px;
+	font-size: 25px;
+}
+a {
+	font-family: 'Josefin Slab', serif;
+	text-decoration: none;
+	color:blue;
+	font-weight: bold;
+	font-size: 400;
+	
+}
+a:hover {
+	color:green;
+}
+
+#logo { /* select the element with the id="logo" */
+  width: 450px;
+}
+.img-circle { /* select all elements with the class="img-circle" */
+  border-radius: 15%;
+  border: 3px solid orange;
+  
+
+}
